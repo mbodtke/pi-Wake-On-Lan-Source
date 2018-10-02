@@ -9,10 +9,10 @@ Initial goals:
 4) Login remotely to the pi
 
 Intermediate goals:
-1) enable network computer to use Wake on LAN mode
-2) use pi to send magic packet and wake network computer
-3) enable control of network computer through pi
+1) Enable network computer to use Wake on LAN mode
+2) Use pi to send magic packet and wake network computer
+3) Enable control of network computer through pi
 
-Stretch goals:
-#Dragon Keeper
-Set up cluster, and use pi as a way to power up and power down the cluster as needed.
+Stretch goals: <br/>
+<em>#DragonKeeper</em> <br/>
+Use pi as a way to power up and power down a modest home cluster.
