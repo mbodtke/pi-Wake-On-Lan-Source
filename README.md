@@ -13,6 +13,7 @@ Intermediate goals:
 2) Send magic packet to wake computer
 3) Control computer from pi
 
-Stretch goals: <br/>
+Stretch goals: <br/><br/>
+
 <em>#DragonKeeper</em> <br/>
 Use pi to power-up, control, and power-down a modest home compute cluster.
