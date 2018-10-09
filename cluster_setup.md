@@ -25,10 +25,9 @@ $ ethtool -s XXX wol g</br>
 Test that you can ping other devices connected to switch</br>
 $ ping 192.168.3.X
 
-Record MAC Address of ethernet device for each node
+Record MAC Address of ethernet device for each node</br>
 $ ip addr
 
-Power down nodes and confirm network lights are still lit on switch.
-Proceed by editing start_cluster.sh
+Power down nodes and confirm network lights are still lit on switch</br>
 
 
